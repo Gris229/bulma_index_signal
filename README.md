@@ -1,2 +1,3 @@
 # bulma_index_signal
-J'essaie de reproduire la page d'accueil de Signal pour prendre Bulma en main.
+
+Trying to make the Signal landing page so that I can better my Bulma's skills.
